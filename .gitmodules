@@ -1,0 +1,3 @@
+[submodule "submodules/test_submodules_sm1"]
+	path = submodules/test_submodules_sm1
+	url = https://github.com/royalcala/test_submodules_sm1
